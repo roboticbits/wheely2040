@@ -1,5 +1,4 @@
 # wheely2040
-Wheely 2040 Robot
 
 Wheely 2040 is an easy to build beginner robot based on the Raspberry Pi RP2040 board called Maker Pi RP2040.
 
